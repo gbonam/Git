@@ -3,3 +3,4 @@ https://www.codeproject.com/Articles/6726/COM-from-scratch-PART-ONE
 https://www.codeproject.com/Articles/7707/Inside-COM
 https://www.codeproject.com/Articles/338268/COM-in-C
 https://www.codeproject.com/Articles/633/Introduction-to-COM-What-It-Is-and-How-to-Use-It
+I have done few changes
