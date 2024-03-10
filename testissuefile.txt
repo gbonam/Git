@@ -12,3 +12,4 @@ class A : public Base {
 public:
     ~A() {method();}
 };
+changes done on test issue file
