@@ -12,4 +12,4 @@ class A : public Base {
 public:
     ~A() {method();}
 };
-changes made for master code
+changes done on test issue file
