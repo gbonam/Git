@@ -12,3 +12,4 @@ class A : public Base {
 public:
     ~A() {method();}
 };
+changes made for master code
